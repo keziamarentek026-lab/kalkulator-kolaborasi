@@ -24,8 +24,6 @@ pilihan = input("Pilih operasi (1/2/3/4/5): ")
 
 if pilihan == "5":
     print("Terima kasih, program selesai.")
-    break
 
 if pilihan not in ["1", "2", "3", "4"]:
     print("Pilihan tidak valid!")
-    continue
