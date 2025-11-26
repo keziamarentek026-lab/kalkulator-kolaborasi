@@ -33,3 +33,6 @@ if pilihan not in ["1", "2", "3", "4"]:
         angka2 = float(input("Masukkan angka kedua: "))
     except ValueError:
         print("Input harus berupa angka!")
+
+if pilihan not in ["1", "2", "3", "4"]:
+    print("Pilihan tidak valid!")
