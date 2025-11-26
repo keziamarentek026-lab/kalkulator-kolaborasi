@@ -27,3 +27,16 @@ if pilihan == "5":
 
 if pilihan not in ["1", "2", "3", "4"]:
     print("Pilihan tidak valid!")
+
+if pilihan == "1":
+    hasil = tambah(angka1, angka2)
+    print("Hasil:", hasil)
+elif pilihan == "2":
+    hasil = kurang(angka1, angka2)
+    print("Hasil:", hasil)
+elif pilihan == "3":
+    hasil = kali(angka1, angka2)
+    print("Hasil:", hasil)
+elif pilihan == "4":
+    hasil = bagi(angka1, angka2)
+    print("Hasil:", hasil)
