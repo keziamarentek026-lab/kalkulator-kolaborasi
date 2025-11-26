@@ -23,9 +23,13 @@ while True:
 pilihan = input("Pilih operasi (1/2/3/4/5): ")
 
 if pilihan == "5":
-    print("Terima kasih, program selesai.")
-    break
+    print("Terima kasih, program selesai.")    
 
 if pilihan not in ["1", "2", "3", "4"]:
     print("Pilihan tidak valid!")
-    continue
+    
+    try:
+        angka1 = float(input("Masukkan angka pertama: "))
+        angka2 = float(input("Masukkan angka kedua: "))
+    except ValueError:
+        print("Input harus berupa angka!")
