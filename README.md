@@ -45,3 +45,25 @@ Tidak diperlukan instalasi library tambahan:
   Program kalkulator ini hanya menggunakan fitur bawaan Python, sehingga tidak memerlukan instalasi paket atau pustaka apa pun.
 
 Setelah semua langkah di atas selesai, Anda dapat melanjutkan ke bagian “Panduan Menjalankan Program” untuk mengetahui cara menggunakan kalkulator.
+
+# Panduan Menjalankan Program
+Buka aplikasi Python atau terminal yang mendukung eksekusi program Python:
+  Anda dapat menggunakan Command Prompt, Terminal, PowerShell, atau langsung membuka Python melalui IDE seperti VS Code, PyCharm, atau IDLE.
+
+Arahkan aplikasi atau terminal ke folder tempat file program disimpan:
+  Pastikan Anda sudah berada di direktori yang berisi file kalkulator sederhana.
+
+Jalankan file program Python:
+  Program akan mulai berjalan dan menampilkan menu kalkulator yang berisi pilihan operasi seperti penjumlahan, pengurangan, perkalian, dan pembagian.
+
+Ikuti instruksi yang muncul pada layar:
+  Anda akan diminta memilih operasi yang ingin digunakan, kemudian memasukkan angka pertama dan angka kedua.
+
+Lihat hasil perhitungan yang ditampilkan oleh program:
+  Program akan menampilkan hasil sesuai operasi yang dipilih, termasuk memberikan peringatan jika terjadi kesalahan input seperti pembagian dengan nol atau angka tidak valid.
+
+Ulangi perhitungan sesuai kebutuhan:
+  Program akan kembali ke menu utama setelah setiap perhitungan, sehingga Anda dapat melakukan operasi lain tanpa harus menjalankan ulang program.
+
+Akhiri program melalui menu keluar:
+  Pilih opsi keluar pada menu untuk menghentikan program dengan aman.
