@@ -9,15 +9,21 @@ Dokumentasi ini bertujuan untuk memberikan gambaran menyeluruh mengenai fungsi a
 # Fitur Utama
 Operasi Penjumlahan
   Menghitung hasil penjumlahan dari dua angka yang dimasukkan pengguna.
+
 Operasi Pengurangan
   Menghitung selisih dua angka.
+  
 Operasi Perkalian
   Menghitung hasil perkalian antara dua angka.
+  
 Operasi Pembagian
   Menghitung hasil pembagian dua angka dengan penanganan khusus apabila pengguna memasukkan angka pembagi nol.
+  
 Validasi Input
   Program memeriksa apakah input berupa angka dan memberikan pesan error jika input tidak sesuai.
+  
 Menu Interaktif
   Menyediakan antarmuka berbasis teks yang memudahkan pengguna memilih operasi yang diinginkan.
+  
 Opsi Keluar Program
   Pengguna dapat menghentikan program kapan saja melalui menu pilihan.
