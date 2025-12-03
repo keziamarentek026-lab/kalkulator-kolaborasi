@@ -85,4 +85,7 @@ Dokumentasi ini bertujuan untuk memberikan gambaran menyeluruh mengenai fungsi a
 
 7. Akhiri program melalui menu keluar:
 
-   Pilih opsi keluar pada menu untuk menghentikan program dengan aman.
+   Pilih opsi keluar pada menu untuk menghentikan program dengan aman
+
+# Dokumentasi Teknis 
+![GAMBAR FLOWCHART](<Flowchart>)
