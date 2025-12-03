@@ -89,3 +89,12 @@ Dokumentasi ini bertujuan untuk memberikan gambaran menyeluruh mengenai fungsi a
 
 # Dokumentasi Teknis 
 ![GAMBAR FLOWCHART](<Flowchart.png>)
+
+Flowchart tersebut menggambarkan alur kerja program kalkulator sederhana yang dimulai dengan menampilkan menu pilihan operasi, kemudian pengguna memasukkan pilihan 1–5; jika memilih 5 maka program menampilkan pesan terima kasih dan berhenti, tetapi jika memilih selain 5 program memeriksa apakah pilihan tersebut valid (1–4), dan apabila tidak valid maka ditampilkan pesan kesalahan lalu kembali ke menu. Jika pilihan valid, program meminta pengguna memasukkan dua angka lalu memeriksa apakah input tersebut benar-benar angka; jika tidak valid maka ditampilkan pesan “input bukan angka” dan kembali ke menu. Setelah input benar, program menentukan operasi yang dipilih—tambah, kurang, kali, atau bagi; khusus untuk pembagian dicek apakah angka kedua bernilai nol, dan jika nol maka ditampilkan pesan error pembagian. Jika tidak ada masalah, program menghitung hasil dan menampilkannya, lalu kembali ke menu sampai pengguna memilih opsi 5 untuk mengakhiri program.
+
+# Daftar Kontributor
+Nama|NIM|Link Akun Github
+:---|:---|:---
+Natasya Luisa Maweikere|250211060114|https://github.com/natasyamaweikere026-droid
+Kezia Gloria Putri Marentek|250211060085|https://github.com/keziamarentek026-lab
+Eleanor Fedora Nayoan|250211060139|https://github.com/eleanornayoan026-arch
