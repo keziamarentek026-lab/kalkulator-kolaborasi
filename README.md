@@ -47,8 +47,9 @@ Tidak diperlukan instalasi library tambahan:
 Setelah semua langkah di atas selesai, Anda dapat melanjutkan ke bagian “Panduan Menjalankan Program” untuk mengetahui cara menggunakan kalkulator.
 
 # Panduan Menjalankan Program
-Buka aplikasi Python atau terminal yang mendukung eksekusi program Python:
-  Anda dapat menggunakan Command Prompt, Terminal, PowerShell, atau langsung membuka Python melalui IDE seperti VS Code, PyCharm, atau IDLE.
+1. Buka aplikasi Python atau terminal yang mendukung eksekusi program Python:
+
+Anda dapat menggunakan Command Prompt, Terminal, PowerShell, atau langsung membuka Python melalui IDE seperti VS Code, PyCharm, atau IDLE.
 
 Arahkan aplikasi atau terminal ke folder tempat file program disimpan:
   Pastikan Anda sudah berada di direktori yang berisi file kalkulator sederhana.
