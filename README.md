@@ -27,3 +27,21 @@ Menu Interaktif:
   
 Opsi Keluar Program:
   Pengguna dapat menghentikan program kapan saja melalui menu pilihan.
+
+# Panduan Instalasi
+Pastikan Python sudah terpasang di perangkat Anda:
+  Program kalkulator sederhana ini membutuhkan Python versi 3 atau lebih baru. Anda dapat memeriksa keberadaan Python melalui menu pencarian pada sistem operasi dan memastikan bahwa aplikasi Python tersedia.
+
+Unduh atau salin repository program:
+  Jika Anda menggunakan Git, Anda dapat melakukan clone repository. Jika tidak, cukup unduh folder proyek atau file program yang telah disediakan oleh kelompok atau pengembang.
+
+Buka folder tempat program disimpan:
+  Pastikan Anda masuk ke direktori utama yang berisi file program kalkulator. Semua file harus berada dalam posisi yang tepat agar program dapat dijalankan.
+
+Pastikan file Python utama tersedia:
+  File program yang akan dijalankan biasanya memiliki ekstensi .py. Pastikan file tersebut ada di dalam folder dan siap digunakan.
+
+Tidak diperlukan instalasi library tambahan:
+  Program kalkulator ini hanya menggunakan fitur bawaan Python, sehingga tidak memerlukan instalasi paket atau pustaka apa pun.
+
+Setelah semua langkah di atas selesai, Anda dapat melanjutkan ke bagian “Panduan Menjalankan Program” untuk mengetahui cara menggunakan kalkulator.
