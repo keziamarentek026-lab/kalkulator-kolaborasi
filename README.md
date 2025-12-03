@@ -88,4 +88,4 @@ Dokumentasi ini bertujuan untuk memberikan gambaran menyeluruh mengenai fungsi a
    Pilih opsi keluar pada menu untuk menghentikan program dengan aman
 
 # Dokumentasi Teknis 
-![GAMBAR FLOWCHART](<Flowchart>)
+![GAMBAR FLOWCHART](<Flowchart.png>)
