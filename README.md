@@ -7,64 +7,82 @@ Selain membantu pengguna melakukan perhitungan numerik, aplikasi ini juga dikemb
 Dokumentasi ini bertujuan untuk memberikan gambaran menyeluruh mengenai fungsi aplikasi, fitur utama, cara instalasi, serta panduan penggunaannya sehingga memudahkan siapa saja yang ingin menjalankan maupun mengembangkan program ini lebih lanjut.
 
 # Fitur Utama
-Operasi Penjumlahan:
-  Menghitung hasil penjumlahan dari dua angka yang dimasukkan pengguna.
+1. Operasi Penjumlahan:
 
-Operasi Pengurangan:
-  Menghitung selisih dua angka.
+   Menghitung hasil penjumlahan dari dua angka yang dimasukkan pengguna.
+
+2. Operasi Pengurangan:
+
+   Menghitung selisih dua angka.
   
-Operasi Perkalian:
-  Menghitung hasil perkalian antara dua angka.
+3. Operasi Perkalian:
+
+   Menghitung hasil perkalian antara dua angka.
   
-Operasi Pembagian:
-  Menghitung hasil pembagian dua angka dengan penanganan khusus apabila pengguna memasukkan angka pembagi nol.
+4. Operasi Pembagian:
+
+   Menghitung hasil pembagian dua angka dengan penanganan khusus apabila pengguna memasukkan angka pembagi nol.
   
-Validasi Input:
-  Program memeriksa apakah input berupa angka dan memberikan pesan error jika input tidak sesuai.
+5. Validasi Input:
+
+   Program memeriksa apakah input berupa angka dan memberikan pesan error jika input tidak sesuai.
   
-Menu Interaktif:
-  Menyediakan antarmuka berbasis teks yang memudahkan pengguna memilih operasi yang diinginkan.
+6. Menu Interaktif:
+
+   Menyediakan antarmuka berbasis teks yang memudahkan pengguna memilih operasi yang diinginkan.
   
-Opsi Keluar Program:
-  Pengguna dapat menghentikan program kapan saja melalui menu pilihan.
+7. Opsi Keluar Program:
+
+   Pengguna dapat menghentikan program kapan saja melalui menu pilihan.
 
 # Panduan Instalasi
-Pastikan Python sudah terpasang di perangkat Anda:
-  Program kalkulator sederhana ini membutuhkan Python versi 3 atau lebih baru. Anda dapat memeriksa keberadaan Python melalui menu pencarian pada sistem operasi dan memastikan bahwa aplikasi Python tersedia.
+1. Pastikan Python sudah terpasang di perangkat Anda:
 
-Unduh atau salin repository program:
-  Jika Anda menggunakan Git, Anda dapat melakukan clone repository. Jika tidak, cukup unduh folder proyek atau file program yang telah disediakan oleh kelompok atau pengembang.
+   Program kalkulator sederhana ini membutuhkan Python versi 3 atau lebih baru. Anda dapat memeriksa keberadaan Python melalui menu pencarian pada sistem operasi dan memastikan bahwa aplikasi Python tersedia.
 
-Buka folder tempat program disimpan:
-  Pastikan Anda masuk ke direktori utama yang berisi file program kalkulator. Semua file harus berada dalam posisi yang tepat agar program dapat dijalankan.
+2. Unduh atau salin repository program:
 
-Pastikan file Python utama tersedia:
-  File program yang akan dijalankan biasanya memiliki ekstensi .py. Pastikan file tersebut ada di dalam folder dan siap digunakan.
+   Jika Anda menggunakan Git, Anda dapat melakukan clone repository. Jika tidak, cukup unduh folder proyek atau file program yang telah disediakan oleh kelompok atau pengembang.
 
-Tidak diperlukan instalasi library tambahan:
-  Program kalkulator ini hanya menggunakan fitur bawaan Python, sehingga tidak memerlukan instalasi paket atau pustaka apa pun.
+3. Buka folder tempat program disimpan:
 
-Setelah semua langkah di atas selesai, Anda dapat melanjutkan ke bagian “Panduan Menjalankan Program” untuk mengetahui cara menggunakan kalkulator.
+   Pastikan Anda masuk ke direktori utama yang berisi file program kalkulator. Semua file harus berada dalam posisi yang tepat agar program dapat dijalankan.
+
+4. Pastikan file Python utama tersedia:
+
+   File program yang akan dijalankan biasanya memiliki ekstensi .py. Pastikan file tersebut ada di dalam folder dan siap digunakan.
+
+5. Tidak diperlukan instalasi library tambahan:
+
+   Program kalkulator ini hanya menggunakan fitur bawaan Python, sehingga tidak memerlukan instalasi paket atau pustaka apa pun.
+
+6. Setelah semua langkah di atas selesai, Anda dapat melanjutkan ke bagian “Panduan Menjalankan Program” untuk mengetahui cara menggunakan kalkulator.
 
 # Panduan Menjalankan Program
 1. Buka aplikasi Python atau terminal yang mendukung eksekusi program Python:
 
-Anda dapat menggunakan Command Prompt, Terminal, PowerShell, atau langsung membuka Python melalui IDE seperti VS Code, PyCharm, atau IDLE.
+   Anda dapat menggunakan Command Prompt, Terminal, PowerShell, atau langsung membuka Python melalui IDE seperti VS Code, PyCharm, atau IDLE.
 
-Arahkan aplikasi atau terminal ke folder tempat file program disimpan:
-  Pastikan Anda sudah berada di direktori yang berisi file kalkulator sederhana.
+2. Arahkan aplikasi atau terminal ke folder tempat file program disimpan:
 
-Jalankan file program Python:
-  Program akan mulai berjalan dan menampilkan menu kalkulator yang berisi pilihan operasi seperti penjumlahan, pengurangan, perkalian, dan pembagian.
+   Pastikan Anda sudah berada di direktori yang berisi file kalkulator sederhana.
 
-Ikuti instruksi yang muncul pada layar:
-  Anda akan diminta memilih operasi yang ingin digunakan, kemudian memasukkan angka pertama dan angka kedua.
+3. Jalankan file program Python:
 
-Lihat hasil perhitungan yang ditampilkan oleh program:
-  Program akan menampilkan hasil sesuai operasi yang dipilih, termasuk memberikan peringatan jika terjadi kesalahan input seperti pembagian dengan nol atau angka tidak valid.
+   Program akan mulai berjalan dan menampilkan menu kalkulator yang berisi pilihan operasi seperti penjumlahan, pengurangan, perkalian, dan pembagian.
 
-Ulangi perhitungan sesuai kebutuhan:
-  Program akan kembali ke menu utama setelah setiap perhitungan, sehingga Anda dapat melakukan operasi lain tanpa harus menjalankan ulang program.
+4. Ikuti instruksi yang muncul pada layar:
 
-Akhiri program melalui menu keluar:
-  Pilih opsi keluar pada menu untuk menghentikan program dengan aman.
+   Anda akan diminta memilih operasi yang ingin digunakan, kemudian memasukkan angka pertama dan angka kedua.
+
+5. Lihat hasil perhitungan yang ditampilkan oleh program:
+
+   Program akan menampilkan hasil sesuai operasi yang dipilih, termasuk memberikan peringatan jika terjadi kesalahan input seperti pembagian dengan nol atau angka tidak valid.
+
+6. Ulangi perhitungan sesuai kebutuhan:
+
+   Program akan kembali ke menu utama setelah setiap perhitungan, sehingga Anda dapat melakukan operasi lain tanpa harus menjalankan ulang program.
+
+7. Akhiri program melalui menu keluar:
+
+   Pilih opsi keluar pada menu untuk menghentikan program dengan aman.
