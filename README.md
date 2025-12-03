@@ -58,7 +58,7 @@ Dokumentasi ini bertujuan untuk memberikan gambaran menyeluruh mengenai fungsi a
 
 6. Setelah semua langkah di atas selesai, Anda dapat melanjutkan ke bagian “Panduan Menjalankan Program” untuk mengetahui cara menggunakan kalkulator.
 
-# Panduan Menjalankan Program
+# Panduan Menjalankan
 1. Buka aplikasi Python atau terminal yang mendukung eksekusi program Python:
 
    Anda dapat menggunakan Command Prompt, Terminal, PowerShell, atau langsung membuka Python melalui IDE seperti VS Code, PyCharm, atau IDLE.
