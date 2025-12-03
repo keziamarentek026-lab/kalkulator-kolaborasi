@@ -7,23 +7,23 @@ Selain membantu pengguna melakukan perhitungan numerik, aplikasi ini juga dikemb
 Dokumentasi ini bertujuan untuk memberikan gambaran menyeluruh mengenai fungsi aplikasi, fitur utama, cara instalasi, serta panduan penggunaannya sehingga memudahkan siapa saja yang ingin menjalankan maupun mengembangkan program ini lebih lanjut.
 
 # Fitur Utama
-Operasi Penjumlahan
+Operasi Penjumlahan:
   Menghitung hasil penjumlahan dari dua angka yang dimasukkan pengguna.
 
-Operasi Pengurangan
+Operasi Pengurangan:
   Menghitung selisih dua angka.
   
-Operasi Perkalian
+Operasi Perkalian:
   Menghitung hasil perkalian antara dua angka.
   
-Operasi Pembagian
+Operasi Pembagian:
   Menghitung hasil pembagian dua angka dengan penanganan khusus apabila pengguna memasukkan angka pembagi nol.
   
-Validasi Input
+Validasi Input:
   Program memeriksa apakah input berupa angka dan memberikan pesan error jika input tidak sesuai.
   
-Menu Interaktif
+Menu Interaktif:
   Menyediakan antarmuka berbasis teks yang memudahkan pengguna memilih operasi yang diinginkan.
   
-Opsi Keluar Program
+Opsi Keluar Program:
   Pengguna dapat menghentikan program kapan saja melalui menu pilihan.
